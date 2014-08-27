@@ -5,7 +5,7 @@
   "description": "Simple utility to switch DPI depending on window width.",
   "author": "Paul <paul@denknerd.org>",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1",
 	"preferences": [{
         "name": "screenWidth",
         "title": "HiDPI Screen Width",
@@ -18,7 +18,7 @@
 		"title": "Pixel Ratio",
 		"description": "Pixel ratio (x10!) to use when HiDPI mode is enabled",
 		"type": "integer",
-		"value": 17,
+		"value": 17
 	}]
 
 }
