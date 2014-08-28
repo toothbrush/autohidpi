@@ -2,7 +2,7 @@
   "name": "autohidpi",
   "title": "AutoHiDPI",
   "id": "jid1-U5X8nJA7m97dVQ",
-  "description": "Simple utility to switch DPI depending on window width.",
+  "description": "Simple utility to switch DPI depending on window width. Copied from <ertug@github.com>.",
   "author": "Paul <paul@denknerd.org>",
   "license": "MPL 2.0",
   "version": "0.1",
